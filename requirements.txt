@@ -1,0 +1,10 @@
+streamlit>=1.28.0
+pillow>=10.2.0
+pytesseract>=0.3.10
+anthropic>=0.25.0
+sentence-transformers>=2.6.0
+pymongo>=4.6.0
+numpy>=1.24.0
+torch>=2.1.0
+transformers>=4.35.0
+python-dotenv>=1.0.0
